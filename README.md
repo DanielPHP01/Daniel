@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is Daniel!<br>I'm android developer.<br>
+Hi, My name is Daniel!<br>I'm Mobile developer.<br>
 
 
 ## 🌐 Socials:
